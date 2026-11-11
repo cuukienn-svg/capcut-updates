@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Sửa lỗi Credit balance và hỗ trợ cập nhật online.",
+  "notes": "Bổ sung đồng bộ gia hạn bản quyền online qua Cloudflare.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "4183d9e5ae89c1d60fbd15ec29649e69279d41aef8839e38b60cf55f57b95103",
-  "signature": "FLuY_OqzbjWF1sYWtWb0LanvJZPWBwhcBImSSH4iCXlq8TkQK761cOlWqGSSaJ_dOBbp46fjuqilys-8LP8SCw",
-  "size": 45027599,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.2/CapCut_AI_Studio_Pro_Setup_v9_5_6_2.exe",
-  "version": "9.5.6.2"
+  "sha256": "9d53743788c26c1d4b402f5d761db007d6d88bf6491bba55a1cfc3be2a611521",
+  "signature": "hHn1HxhIMuhOC_dpbYgAqPA7Q7rX9RJ5VBzBxBFGdH4ndbbwBrZwh4h6nLObPBVo3QiInYox_E-D0Q8N-qjtAA",
+  "size": 45036275,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.3/CapCut_AI_Studio_Pro_Setup_v9_5_6_3.exe",
+  "version": "9.5.6.3"
 }
