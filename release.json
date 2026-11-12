@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Bổ sung đồng bộ gia hạn bản quyền online qua Cloudflare.",
+  "notes": "Tich hop Multi-Tab vao CapCut AI Studio Pro 9.5.6.4: them che do Multi-Tab trong ung dung chinh, giu nguyen Key/Cloudflare/GitHub va luong tao video thong thuong. Toan bo so tab duoc chay, khong can nhap CHAY THAT hay tick bao ve Credits. Co thu cau hinh khong gui, tai MP4 dung thu muc, tiep tuc/chay lai dung Job, chong gui trung. Goi nay CHI cap nhat App va metadata; Owner Center se sao luu, build Setup FRESH, ky so va dang GitHub sau khi chu phan mem xac nhan. CAN SUA BUILD_EXE_WINDOWS.bat bi dinh lenh truoc khi ap dung (ngoai pham vi HOTFIX duoc phep).",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "9d53743788c26c1d4b402f5d761db007d6d88bf6491bba55a1cfc3be2a611521",
-  "signature": "hHn1HxhIMuhOC_dpbYgAqPA7Q7rX9RJ5VBzBxBFGdH4ndbbwBrZwh4h6nLObPBVo3QiInYox_E-D0Q8N-qjtAA",
-  "size": 45036275,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.3/CapCut_AI_Studio_Pro_Setup_v9_5_6_3.exe",
-  "version": "9.5.6.3"
+  "sha256": "8120df01b279d0e5ac897bb2ac92f5c4c152c994147c4b728fb1743542292552",
+  "signature": "wUy6_tXKjsHLOKJjsTy7ieVHrEztFybJHwuoGkegiz3EfrutNF50DLivns3MghZg8qmtfL6_R5tycE-VsTLaCw",
+  "size": 45101545,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.4/CapCut_AI_Studio_Pro_Setup_v9_5_6_4.exe",
+  "version": "9.5.6.4"
 }
