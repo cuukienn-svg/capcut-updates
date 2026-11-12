@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Tich hop Multi-Tab vao CapCut AI Studio Pro 9.5.6.4: them che do Multi-Tab trong ung dung chinh, giu nguyen Key/Cloudflare/GitHub va luong tao video thong thuong. Toan bo so tab duoc chay, khong can nhap CHAY THAT hay tick bao ve Credits. Co thu cau hinh khong gui, tai MP4 dung thu muc, tiep tuc/chay lai dung Job, chong gui trung. Goi nay CHI cap nhat App va metadata; Owner Center se sao luu, build Setup FRESH, ky so va dang GitHub sau khi chu phan mem xac nhan. CAN SUA BUILD_EXE_WINDOWS.bat bi dinh lenh truoc khi ap dung (ngoai pham vi HOTFIX duoc phep).",
+  "notes": "Them nut XANH LA Enter (MT) vao Tien trinh Multi-Tab. Chu phan mem tu kiem tra Render loi tren CapCut, bam Enter (MT) de gui lai dung MOT Job loi tren tab MOI, khong can tu xac minh Render loi them. Giu Job ID, tai khoan, Prompt, Video No, MP4 target va download page identity. SQLite CAS ngan bam trung; khong gui lai trang thai khong ro/da co MP4. Khong can thiep che do thuong, Key, Cloudflare, updater, Owner Center hay gioi han 10 tab. Ban nguon 9.5.6.4, nang len 9.5.6.5.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "8120df01b279d0e5ac897bb2ac92f5c4c152c994147c4b728fb1743542292552",
-  "signature": "wUy6_tXKjsHLOKJjsTy7ieVHrEztFybJHwuoGkegiz3EfrutNF50DLivns3MghZg8qmtfL6_R5tycE-VsTLaCw",
-  "size": 45101545,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.4/CapCut_AI_Studio_Pro_Setup_v9_5_6_4.exe",
-  "version": "9.5.6.4"
+  "sha256": "f4f162c645b960f2ee592c373071ecbd39fc66a1585c97d53a88e3990eb9c0b0",
+  "signature": "QN3gXLE08kC6C3wdt7pCA0c1wbpgMYqDyKYOLC7cpqfnr2xAa98ILxPlodSXpVxMYLhU4rKMZEAbgUUwuj2FCQ",
+  "size": 45107951,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.5/CapCut_AI_Studio_Pro_Setup_v9_5_6_5.exe",
+  "version": "9.5.6.5"
 }
