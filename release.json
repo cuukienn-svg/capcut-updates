@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Them nut XANH LA Enter (MT) vao Tien trinh Multi-Tab. Chu phan mem tu kiem tra Render loi tren CapCut, bam Enter (MT) de gui lai dung MOT Job loi tren tab MOI, khong can tu xac minh Render loi them. Giu Job ID, tai khoan, Prompt, Video No, MP4 target va download page identity. SQLite CAS ngan bam trung; khong gui lai trang thai khong ro/da co MP4. Khong can thiep che do thuong, Key, Cloudflare, updater, Owner Center hay gioi han 10 tab. Ban nguon 9.5.6.4, nang len 9.5.6.5.",
+  "notes": "Them CHAN DOAN loi tai MP4: ma DL-001..DL-018, ghi thoi diem CDP/Playwright, nguon/dich va kiem tra file khi loi, phat hien download event tre, phan biet load thanh cong va app chua xac minh. KHONG doi luong tai Chrome-native, khong doi Render, Enter (MT), danh tinh Job, Credits, Key, Cloudflare hay GitHub updater. Tham gia Owner Center sau khi kiem thu offline; CHUA thu live Windows.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "f4f162c645b960f2ee592c373071ecbd39fc66a1585c97d53a88e3990eb9c0b0",
-  "signature": "QN3gXLE08kC6C3wdt7pCA0c1wbpgMYqDyKYOLC7cpqfnr2xAa98ILxPlodSXpVxMYLhU4rKMZEAbgUUwuj2FCQ",
-  "size": 45107951,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.5/CapCut_AI_Studio_Pro_Setup_v9_5_6_5.exe",
-  "version": "9.5.6.5"
+  "sha256": "95597762f9669aaa0f37654ba7a20082760d3cf0dc993843295c1865e71282e8",
+  "signature": "JNis-qSW7kFMSdCerjhgN0dxYcRRDZHExaW9LrFJGUU39WGp6MtTMdYqTW0NrBcVyhzJeuNewCNzg3-8Dm_8CQ",
+  "size": 45118585,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.6/CapCut_AI_Studio_Pro_Setup_v9_5_6_6.exe",
+  "version": "9.5.6.6"
 }
