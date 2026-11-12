@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Them CHAN DOAN loi tai MP4: ma DL-001..DL-018, ghi thoi diem CDP/Playwright, nguon/dich va kiem tra file khi loi, phat hien download event tre, phan biet load thanh cong va app chua xac minh. KHONG doi luong tai Chrome-native, khong doi Render, Enter (MT), danh tinh Job, Credits, Key, Cloudflare hay GitHub updater. Tham gia Owner Center sau khi kiem thu offline; CHUA thu live Windows.",
+  "notes": "Nang cap nut xanh Enter (MT): cho chon nhieu Job Render loi mot lan. Trong CUNG TAI KHOAN, cau hinh va gui Prompt TUAN TU: Job truoc PHAI co tin hieu CapCut da tiep nhan moi bat dau Job sau. Khi da xac nhan, cac Job render/tai MP4 SONG SONG, khong doi nhau. Khac tai khoan xu ly doc lap theo Chrome Profile, toi da 10 tab theo cau hinh. Moi retry mo tab moi va giu Job ID/Prompt/video/duong dan MP4; SQLite chan trung/khong ro/trang thai da xong. Neu Job truoc chua gui/xac nhan, dung hang doi tai khoan. KHONG doi logic download, nhat ky DL-001..DL-018 v9.5.6.6, che do thuong, License/Cloudflare/updater. Chua thu tren Windows/CapCut that.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "95597762f9669aaa0f37654ba7a20082760d3cf0dc993843295c1865e71282e8",
-  "signature": "JNis-qSW7kFMSdCerjhgN0dxYcRRDZHExaW9LrFJGUU39WGp6MtTMdYqTW0NrBcVyhzJeuNewCNzg3-8Dm_8CQ",
-  "size": 45118585,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.6/CapCut_AI_Studio_Pro_Setup_v9_5_6_6.exe",
-  "version": "9.5.6.6"
+  "sha256": "0ae73207a1e42f6b9cf64013fb9e8ebecdddbe405458ba81517ac1a4f5632436",
+  "signature": "fpdG2uUDjUUm5PypR2QhPEwA0vqMoVbX-pGs4d1trSvmieEa_QzqZq43sDjsrcjQqcGxPCR1E_oyNr86ujmdAQ",
+  "size": 45120269,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.7/CapCut_AI_Studio_Pro_Setup_v9_5_6_7.exe",
+  "version": "9.5.6.7"
 }
