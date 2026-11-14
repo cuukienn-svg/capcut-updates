@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Fix Unicode path handling for big-lama.pt in both PyInstaller builder TorchScript verification and customer EXE SimpleLama runtime; use Python binary streams, not native filename loader. Keep preinstalled FFmpeg+model and both normal/Multi-Tab flows. Does NOT modify disallowed .cmd/.bat; optional separate OWNER-only .cmd correction provided. Windows EXE live test pending.",
+  "notes": "Fix Tcl/Tk version-conflict 8.6.12 versus 8.6.15 when Owner Center launches Windows PyInstaller: clean inherited TCL_LIBRARY, TK_LIBRARY and TCLLIBPATH from the Python builder process before tkinter initializes; check active Tcl library path. Preserve previous tkinter hooks, normal render, Multi-Tab, AI inpaint, licenses and updater. Owner Center code-only HOTFIX. Rebuild EXE/Setup and test on Windows before release.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "cbd9e94e755c10d39d481cd90ccd6f6591761e71b587285f14d3da8a0aeff6d8",
-  "signature": "xyeMBnof4l1_f77JhR0SSTcVCfPpNIVVoS4HaXuRlzX1_vDl5Rp-gX6VnLJoKRcG2xFVFqwXecl1h-NHvO8eAg",
-  "size": 456281217,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.12/CapCut_AI_Studio_Pro_Setup_v9_5_6_12.exe",
-  "version": "9.5.6.12"
+  "sha256": "28b4c75cf1e8e7e1c13acf11682e4b59f8ce6d710ed56a8e80e5dd578bbc9e36",
+  "signature": "Xm-YQzynXcDXX3EEDYZOeKX7-ixbg3t0KqZjVqOBHjpGl_Zd_JaOxXqSC-taHT3rLxpSzv1hraZ2vvxI1EjHCg",
+  "size": 457550229,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.14/CapCut_AI_Studio_Pro_Setup_v9_5_6_14.exe",
+  "version": "9.5.6.14"
 }
