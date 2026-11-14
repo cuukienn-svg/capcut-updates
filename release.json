@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Optional local LaMa AI logo inpainting after MP4 download for MT and normal mode; manual redo button; safe staged atomic replacement deletes raw ONLY on success; failure diagnostic JSON preserves raw. AI dependencies/model must be packaged in Windows EXE separately, offline mocked tests only. No Chrome/render/download/credits/license/updater change.",
+  "notes": "Fix Unicode path handling for big-lama.pt in both PyInstaller builder TorchScript verification and customer EXE SimpleLama runtime; use Python binary streams, not native filename loader. Keep preinstalled FFmpeg+model and both normal/Multi-Tab flows. Does NOT modify disallowed .cmd/.bat; optional separate OWNER-only .cmd correction provided. Windows EXE live test pending.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "44438e02d0dd0d08007c97396c3fe3896854332b9e2815de6b0576bb6d1c35ea",
-  "signature": "EZu31yVYrg4dShJAutP1ZoIdsFiRWs8R81Tc1MaM1UxS_rB1nvAZ6H63cuOqIvUx0YTEcIo-bq_rewyMVf-SCA",
-  "size": 45143567,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.10/CapCut_AI_Studio_Pro_Setup_v9_5_6_10.exe",
-  "version": "9.5.6.10"
+  "sha256": "cbd9e94e755c10d39d481cd90ccd6f6591761e71b587285f14d3da8a0aeff6d8",
+  "signature": "xyeMBnof4l1_f77JhR0SSTcVCfPpNIVVoS4HaXuRlzX1_vDl5Rp-gX6VnLJoKRcG2xFVFqwXecl1h-NHvO8eAg",
+  "size": 456281217,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.12/CapCut_AI_Studio_Pro_Setup_v9_5_6_12.exe",
+  "version": "9.5.6.12"
 }
