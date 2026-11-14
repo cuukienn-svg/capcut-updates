@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Add fail-closed frozen EXE Tcl/Tk payload verification on Windows Owner build. Pair with one-time owner-only build spec/bat/cmd repair tool PATCH_OWNER_TKINTER_BUILD_v15.py (these files are prohibited in standard code-only HOTFIX). Explicitly require tkinter modules, _tkinter.pyd and Tcl/Tk scripts in PyInstaller Analysis/onedir output. Keep normal render, Multi-Tab, AI logo processing, license and updater unchanged. Rebuild/verify Windows EXE before customer release.",
+  "notes": "Bổ sung đồng bộ gia hạn bản quyền online qua Cloudflare.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "39b0e23c347ee52062886e780909459a18766a2774db36f41a3d3f69bbc4009b",
-  "signature": "8t-_9NVlIIzP8VlV-TolYG-MKTcXToVX-QffgoAASrQwKuDPHKNmfRzmp7MXuNf_6S-Lqx69M28hJD0aw2wBAQ",
-  "size": 458704055,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.15/CapCut_AI_Studio_Pro_Setup_v9_5_6_15.exe",
-  "version": "9.5.6.15"
+  "sha256": "ab6497b4d54d96b7a259a0b2667983694b7fd5dc02ae978545a92f439702b4d9",
+  "signature": "R9GEcuKeSiq_ceKiLKc3OfabqPw_y0JKFoAakiH2Vhtk5yMK_JAJr8D7ypqq3qgiw0BiUWzwckuX0P_y3Dc_AA",
+  "size": 459252800,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.16/CapCut_AI_Studio_Pro_Setup_v9_5_6_16.exe",
+  "version": "9.5.6.16"
 }
