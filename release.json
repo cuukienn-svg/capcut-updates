@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Live Enter (MT) theo tài khoản đã GỬI HẾT Prompt nhóm; thay đúng tab Render lỗi, không chờ tài khoản khác hay MP4 hoàn thành. Dùng chung engine gửi/Chrome, an toàn SQLite, không đổi Credits/HTTP2/download/video thường/license/updater. Offline tests only.",
+  "notes": "Optional local LaMa AI logo inpainting after MP4 download for MT and normal mode; manual redo button; safe staged atomic replacement deletes raw ONLY on success; failure diagnostic JSON preserves raw. AI dependencies/model must be packaged in Windows EXE separately, offline mocked tests only. No Chrome/render/download/credits/license/updater change.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "e2d85d9eb8441a6a50ca3acd5725efd2071b1600397c2d1011a652eca5748ae7",
-  "signature": "7v_JoGkBVe2NWdCz2uj6B7X6NzraGWn-w8SP2i6m470t_PVL5F8kHxZQpeVOHvIJwybi9PfcAcIBlYi_hYKFCQ",
-  "size": 45133778,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.9/CapCut_AI_Studio_Pro_Setup_v9_5_6_9.exe",
-  "version": "9.5.6.9"
+  "sha256": "44438e02d0dd0d08007c97396c3fe3896854332b9e2815de6b0576bb6d1c35ea",
+  "signature": "EZu31yVYrg4dShJAutP1ZoIdsFiRWs8R81Tc1MaM1UxS_rB1nvAZ6H63cuOqIvUx0YTEcIo-bq_rewyMVf-SCA",
+  "size": 45143567,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.10/CapCut_AI_Studio_Pro_Setup_v9_5_6_10.exe",
+  "version": "9.5.6.10"
 }
