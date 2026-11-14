@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Fix Tcl/Tk version-conflict 8.6.12 versus 8.6.15 when Owner Center launches Windows PyInstaller: clean inherited TCL_LIBRARY, TK_LIBRARY and TCLLIBPATH from the Python builder process before tkinter initializes; check active Tcl library path. Preserve previous tkinter hooks, normal render, Multi-Tab, AI inpaint, licenses and updater. Owner Center code-only HOTFIX. Rebuild EXE/Setup and test on Windows before release.",
+  "notes": "Add fail-closed frozen EXE Tcl/Tk payload verification on Windows Owner build. Pair with one-time owner-only build spec/bat/cmd repair tool PATCH_OWNER_TKINTER_BUILD_v15.py (these files are prohibited in standard code-only HOTFIX). Explicitly require tkinter modules, _tkinter.pyd and Tcl/Tk scripts in PyInstaller Analysis/onedir output. Keep normal render, Multi-Tab, AI logo processing, license and updater unchanged. Rebuild/verify Windows EXE before customer release.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "28b4c75cf1e8e7e1c13acf11682e4b59f8ce6d710ed56a8e80e5dd578bbc9e36",
-  "signature": "Xm-YQzynXcDXX3EEDYZOeKX7-ixbg3t0KqZjVqOBHjpGl_Zd_JaOxXqSC-taHT3rLxpSzv1hraZ2vvxI1EjHCg",
-  "size": 457550229,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.14/CapCut_AI_Studio_Pro_Setup_v9_5_6_14.exe",
-  "version": "9.5.6.14"
+  "sha256": "39b0e23c347ee52062886e780909459a18766a2774db36f41a3d3f69bbc4009b",
+  "signature": "8t-_9NVlIIzP8VlV-TolYG-MKTcXToVX-QffgoAASrQwKuDPHKNmfRzmp7MXuNf_6S-Lqx69M28hJD0aw2wBAQ",
+  "size": 458704055,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.15/CapCut_AI_Studio_Pro_Setup_v9_5_6_15.exe",
+  "version": "9.5.6.15"
 }
