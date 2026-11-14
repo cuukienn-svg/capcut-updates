@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Tu phuc hoi timeout buoc CHUA GUI trong Multi-Tab tren CUNG Chrome tab (toi da 2 lan), khong mo tab khac/khong thu lai Prompt da gui. Moi lan thu kiem tra SQLite/Page/Canvas, khong thay doi co che Send, render, MP4, Enter (MT) nhieu Job, download diagnostics, video thuong, License/Cloudflare/GitHub updater. Chi kiem thu offline, chua test CapCut that.",
+  "notes": "Live Enter (MT) theo tài khoản đã GỬI HẾT Prompt nhóm; thay đúng tab Render lỗi, không chờ tài khoản khác hay MP4 hoàn thành. Dùng chung engine gửi/Chrome, an toàn SQLite, không đổi Credits/HTTP2/download/video thường/license/updater. Offline tests only.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "583a826e44be352b4f1a35175b7eb140213f22ae4403a612efe243beecd2379f",
-  "signature": "FnGpFafumJNcfy6G2CXMY0R0JI7Qx0Mmk-iouOFHahi6YjG0DFdVAVgQOsvyDBfyM-euqqW8JgllpKtinH5jCg",
-  "size": 45120282,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.8/CapCut_AI_Studio_Pro_Setup_v9_5_6_8.exe",
-  "version": "9.5.6.8"
+  "sha256": "e2d85d9eb8441a6a50ca3acd5725efd2071b1600397c2d1011a652eca5748ae7",
+  "signature": "7v_JoGkBVe2NWdCz2uj6B7X6NzraGWn-w8SP2i6m470t_PVL5F8kHxZQpeVOHvIJwybi9PfcAcIBlYi_hYKFCQ",
+  "size": 45133778,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.9/CapCut_AI_Studio_Pro_Setup_v9_5_6_9.exe",
+  "version": "9.5.6.9"
 }
