@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "Bổ sung đồng bộ gia hạn bản quyền online qua Cloudflare.",
+  "notes": "v9.5.6.17 — tang gioi han Render thuong 10 len 15 luong, Multi-Tab 10 len 15 tab; mac dinh Render 5. Khong thay doi workflow Gui Prompt that, Credits, SQLite, StrictTabDownloads, AI LaMa, license Ed25519, OWNER CENTER hoac updater. Bao gom 3 file application, 2 file test va 3 file thong tin phien ban. Da kiem thu offline; CHUA thu 15 Render that tren Windows/CapCut, CHUA build/ky/phat hanh. Can dong bo CHECKSUMS_SHA256.txt bo sung va kiem chung EXE/Setup truoc khi phat hanh.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "ab6497b4d54d96b7a259a0b2667983694b7fd5dc02ae978545a92f439702b4d9",
-  "signature": "R9GEcuKeSiq_ceKiLKc3OfabqPw_y0JKFoAakiH2Vhtk5yMK_JAJr8D7ypqq3qgiw0BiUWzwckuX0P_y3Dc_AA",
-  "size": 459252800,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.16/CapCut_AI_Studio_Pro_Setup_v9_5_6_16.exe",
-  "version": "9.5.6.16"
+  "sha256": "88ee06dbfe898879aa71b1d5a4f6f5b7bfe9085d822cdd6df9d9ca94f397bd5b",
+  "signature": "wztKc652HloS_wEm0nWr5xhjB_GEvWw-fHG_KwQEphCbRRFqev2ttHUvIf8wLclLZMu0Cvehb3wuoPjIBI9jDQ",
+  "size": 459312158,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.17/CapCut_AI_Studio_Pro_Setup_v9_5_6_17.exe",
+  "version": "9.5.6.17"
 }
