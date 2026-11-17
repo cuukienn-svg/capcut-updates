@@ -1,10 +1,10 @@
 {
   "format": "capcut-signed-exe-release-v1",
-  "notes": "v9.5.6.17 — tang gioi han Render thuong 10 len 15 luong, Multi-Tab 10 len 15 tab; mac dinh Render 5. Khong thay doi workflow Gui Prompt that, Credits, SQLite, StrictTabDownloads, AI LaMa, license Ed25519, OWNER CENTER hoac updater. Bao gom 3 file application, 2 file test va 3 file thong tin phien ban. Da kiem thu offline; CHUA thu 15 Render that tren Windows/CapCut, CHUA build/ky/phat hanh. Can dong bo CHECKSUMS_SHA256.txt bo sung va kiem chung EXE/Setup truoc khi phat hanh.",
+  "notes": "v9.5.6.18 from v9.5.6.17: retain ordinary Render 15 threads and Multi-Tab 15 tabs; add opt-in immediate one-shot retry for jobs proven to have failed before Send, using a replacement tab without waiting for other confirmed Render/Download jobs. Preserve Job ID, Prompt, Account ID, Video Number, output path, Credits/send barriers, strict Page/CDP download guard, AI LaMa and licensing. Auto Retry remains OFF by default. No Windows/CapCut live test, EXE build, signing or publishing performed.",
   "product": "CAPCUT_AI_STUDIO_PRO_V956_LICENSED",
-  "sha256": "88ee06dbfe898879aa71b1d5a4f6f5b7bfe9085d822cdd6df9d9ca94f397bd5b",
-  "signature": "wztKc652HloS_wEm0nWr5xhjB_GEvWw-fHG_KwQEphCbRRFqev2ttHUvIf8wLclLZMu0Cvehb3wuoPjIBI9jDQ",
-  "size": 459312158,
-  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.17/CapCut_AI_Studio_Pro_Setup_v9_5_6_17.exe",
-  "version": "9.5.6.17"
+  "sha256": "e50e134ab685c91cb2432d74f9cc0f9001df0067377c022f7d06c766ff10ee80",
+  "signature": "fr9ex3maktpeCovm_7R8gFblNwnY0zqzs4riqk_tP5UPC6dLlX2EEPQigvJtE5U2U0GQt9cNxR8s8vvr4K3bAw",
+  "size": 459303369,
+  "url": "https://github.com/cuukienn-svg/capcut-updates/releases/download/v9.5.6.18/CapCut_AI_Studio_Pro_Setup_v9_5_6_18.exe",
+  "version": "9.5.6.18"
 }
